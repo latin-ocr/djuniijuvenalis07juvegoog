@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./djuniijuvenalis07juvegoog_0003.png"; bbox 0 0 925 1377; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 303 698 568 727">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 303 698 568 727">
+     <span class='ocr_line' id='line_1_1' title="bbox 303 698 568 727; baseline -0.023 -2"><span class='ocrx_word' id='word_1_1' title='bbox 303 704 391 727; x_wconf 53' lang='lat' dir='ltr'><strong>§amaru</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 403 702 476 726; x_wconf 63' lang='lat' dir='ltr'><strong>aulltssz</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 489 698 568 724; x_wconf 58' lang='lat' dir='ltr'><strong>affirm*</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 404 745 471 754">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 404 745 471 754">
+     <span class='ocr_line' id='line_1_2' title="bbox 404 745 471 754; baseline -0.015 0"><span class='ocrx_word' id='word_1_4' title='bbox 404 746 439 754; x_wconf 65' lang='lat' dir='ltr'><strong>nan</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 446 745 471 753; x_wconf 70' lang='grc' dir='ltr'><strong>τκι</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 316 771 564 791">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 316 771 564 791">
+     <span class='ocr_line' id='line_1_3' title="bbox 316 771 564 791; baseline -0.024 0"><span class='ocrx_word' id='word_1_6' title='bbox 316 772 478 791; x_wconf 73' lang='lat' dir='ltr'><strong>CONSTANTJUS</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 496 771 564 787; x_wconf 68' lang='lat' dir='ltr'><strong>FUND⁴</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 925 1377">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 925 1377">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 925 1377; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 0 0 925 1377; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
